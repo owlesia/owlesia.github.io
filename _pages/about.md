@@ -34,7 +34,7 @@ Work Experience
     <span style="float:right;">
         Starting in June 2023
     </span>
-    <br/>Software Engineer | Dropbox Core - Sharing Platform
+    <br/>Software Engineer
 </p>
 
 <p style="text-align:left;">
