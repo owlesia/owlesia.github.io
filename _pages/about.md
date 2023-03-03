@@ -48,4 +48,4 @@ Work Experience
 Publications
 ======
 
-[Estimating Battery State-of-Charge within 1% using Machine Learning and Physics-based Models](https://www.sae.org/publications/technical-papers/content/2023-01-0522/)
+[Estimating Battery State-of-Charge within 1% using Machine Learning and Physics-based Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8d0Vz0MAAAAJ&citation_for_view=8d0Vz0MAAAAJ:u-x6o8ySG0sC)
