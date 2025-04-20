@@ -42,7 +42,7 @@ Work Experience
     <span style="float:right;">
         June 2020 - August 2021
     </span>
-    <br/>Software Engineer | Enterprise Content - Big Data
+    <br/>Software Engineer | Enterprise Content - Data Lake
 </p>
 
 Publications
