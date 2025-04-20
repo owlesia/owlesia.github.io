@@ -32,9 +32,9 @@ Work Experience
 <p style="text-align:left;">
     Dropbox
     <span style="float:right;">
-        Starting in June 2023
+        June 2023 - April 2025
     </span>
-    <br/>Software Engineer
+    <br/>Software Engineer | Developer Infrastructure - Build Toolchains
 </p>
 
 <p style="text-align:left;">
